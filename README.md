@@ -6,7 +6,7 @@
 <p align="center"> 
     <a href="#" target="_blank"> <img src="https://img.shields.io/github/issues/Nexusflipp/seabios-sfbuild"/> </a>
     <a href="#" target="_blank"> <img src="https://img.shields.io/github/languages/top/Nexusflipp/seabios-sfbuild"/> </a> 
-    <a href="#" target="_blank"> <img src="https://img.shields.io/github/languages/countNexusflipp/seabios-sfbuild"/> </a> 
+    <a href="#" target="_blank"> <img src="https://img.shields.io/github/languages/count/Nexusflipp/seabios-sfbuild"/> </a> 
     <a href="#" target="_blank"> <img src="https://img.shields.io/github/last-commit/Nexusflipp/seabios-sfbuild"/> </a> 
     <a href="#" target="_blank"> <img src="https://img.shields.io/github/repo-size/Nexusflipp/seabios-sfbuild"/> </a> 
     <a href="#" target="_blank"> <img src="https://img.shields.io/github/languages/code-size/Nexusflipp/seabios-sfbuild"/> </a> 
